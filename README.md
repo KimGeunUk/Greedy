@@ -1,0 +1,2 @@
+# Greedy
+Study Python Greedy
